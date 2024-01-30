@@ -1,2 +1,2 @@
-# coding_languages
-Exercises on known coding languages
+# programming_languages
+Exercises on known programming languages
